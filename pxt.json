@@ -1,6 +1,7 @@
 {
     "name": "kapakaigames",
-    "description": "",
+    "description": "MakeCode Arcade extension for Kapakai Games",
+    "icon": "assets/icon.png", 
     "dependencies": {
         "device": "*",
         "radio": "*"
